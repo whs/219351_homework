@@ -1,5 +1,21 @@
 # Webapp homeworks
 
+## Homework 2
+
+Build with `cmake && make`.
+
+```
+Benchmarking threaded impl:
+9 8 7 6 5 4 3 2 1 0 
+99990 99991 99992 99993 99994 99995 99996 99997 99998 99999 
+elapsed time = 43.584559
+
+Benchmarking non-threaded impl:
+9 8 7 6 5 4 3 2 1 0 
+99990 99991 99992 99993 99994 99995 99996 99997 99998 99999 
+elapsed time = 77.787568
+```
+
 ## Homework 3
 
 Run `bench.sh` to build and run.
